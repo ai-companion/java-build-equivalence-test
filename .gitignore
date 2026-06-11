@@ -1,0 +1,7 @@
+testbed/**/*.jar
+results/v*/japicmp/
+results/v*/sha256/
+results/v*/metadata/
+results/v*/javap/
+results/v*/cfr/
+results/v*/equivalence-report.txt
